@@ -1,6 +1,18 @@
 # Adidas-US-Sales-Analysis :
 ![adidas-store-design-model-3d-model-low-poly-rigged-obj-asd-gltf](https://user-images.githubusercontent.com/98810351/235490784-6532023e-4236-4a23-8f52-66c51661bead.jpg)
 
+### Data Collection:
+- To gather Adidas US sales data from Kaggle, I first navigated to the Kaggle website and created an account. 
+- After logging in, I searched for "Adidas US Sales Data" and selected a suitable dataset based on my analysis requirements. 
+- Once I downloaded the dataset, I created a data dictionary to better understand the data and its features.
+
+### Dataset Link :
+Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+### Data Dictionary :
+- The data dictionary is an important step in my data analysis process, as it helped me to better understand the data and draw meaningful insights from it.
+-
+
+
 
 
 ### Problem Statement :
