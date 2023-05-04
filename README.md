@@ -9,8 +9,7 @@
 ### Dataset Link :
 Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 ### Data Dictionary :
-- The data dictionary is an important step in my data analysis process, as it helped me to better understand the data and draw meaningful insights from it.
-- Here is the data dictionary for US sales dataset.
+- The data dictionary is an important step in my data analysis process, as it helped me to better understand the data and draw meaningful insights from it. Here is the data dictionary for US sales dataset.
 - Retailer: The name of the retailer who made the sale.
 - Retailer ID: A unique identifier for the retailer.
 - Invoice Date: The date on which the sale was made.
