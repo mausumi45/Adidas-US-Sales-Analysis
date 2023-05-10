@@ -59,3 +59,21 @@ Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-s
 :panda_face: pivot_table()
 
 :panda_face: PeriodIndex()
+
+### EDA Using SQL :
+:rocket: Connect to the database: First, connected to the database that contains the dataset using an appropriate database management system (DBMS) such as MySQL
+
+:rocket: View table schema: Used the SQL "DESCRIBE" or "SHOW COLUMNS" statement to view the schema of the table containing the dataset. This will provide information such as column names, data types, and nullability.
+
+:rocket: Check basic statistics: Used SQL aggregation functions such as "COUNT", "SUM", "AVG", "MAX", and "MIN" to calculate basic statistics such as the number of records, sum of values, average, and minimum and maximum values for each column.
+
+:rocket: Identify missing values: Used SQL "WHERE" statement and "IS NULL" or "IS NOT NULL" operator to identify records with missing values.
+
+:rocket: Grouping and aggregation: Used SQL "GROUP BY" statement to group records by one or more columns and calculate summary statistics for each group using SQL aggregation functions.
+
+:rocket: Filtering and sorting: Used SQL "WHERE" statement to filter records based on one or more conditions and "ORDER BY" statement to sort records based on one or more columns.
+
+:rocket: Joins: Used SQL "JOIN" statement to combine multiple tables and extract information that cannot be obtained from a single table.
+
+:rocket: Subqueries: Used SQL subqueries to extract information from a subset of records that satisfy a particular condition or set of conditions.
+
