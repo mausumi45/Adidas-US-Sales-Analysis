@@ -34,7 +34,11 @@ Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-s
 ### EDA Using Python :
 :closed_umbrella: Imported necessary libraries and load the dataset into a Pandas DataFrame like Numpy, Pandas, Matplotlib, Seaborn, datetime & warning.
 :closed_umbrella: Checked the basic information about the dataset such as shape, size, data types, and missing values using Pandas functions.
+
 :closed_umbrella: Performed descriptive statistics to understand the central tendency, dispersion, and distribution of the data using NumPy and Pandas functions.
+
 :closed_umbrella: Visualized the data using Matplotlib and Seaborn to identify patterns, trends, and outliers in the data.
+
 :closed_umbrella: Performed feature engineering to create new features that can provide additional insights into the data.
+
 :closed_umbrella: Correlation analysis to identify the relationships between different features in the dataset.
