@@ -92,12 +92,34 @@ Prepare a report: Use the "Insert" tab and the "Text Box" option to create a rep
 
 #### Pivot Charts Used :
 :tokyo_tower: line chart
+
 :tokyo_tower: pie chart
+
 :tokyo_tower: slicer
+
 :tokyo_tower: stacked column chart
+
 :tokyo_tower: Stacked area chart
+
 :tokyo_tower: column chart
+
 :tokyo_tower: bar graph
+
 :tokyo_tower: Doughnut Chart
 
+### EDA Using PowerBI :
+:movie_camera: Import the data: Imported the data into Power BI using the "Get Data" option on the "Home" tab and selecting the appropriate data source.
 
+:movie_camera: Data modeling: Used the "Modeling" tab to create a data model that connects the tables and columns of the data and defines relationships and calculations between them.
+
+:movie_camera: Check basic information: Used the "Fields" pane to check for basic information such as the number of records, data types, and missing values.
+
+:movie_camera: Visualizations: Used the "Visualizations" pane to create interactive visualizations such as charts, graphs, and tables that help to identify patterns and relationships in the data.
+
+:movie_camera: Filtering and sorting: Used the "Visualizations" pane and the "Filter" and "Sort by" options to filter and sort records based on one or more columns.
+
+:movie_camera: Aggregations: Used the "Modeling" tab and the "New Measure" option to create calculated measures that aggregate data based on one or more columns and calculate summary statistics for each group.
+
+:movie_camera: Drill-throughs: Used the "Visualizations" pane and the "Drill-through" option to create drill-throughs that allow users to view more detailed information for specific records.
+
+:movie_camera: Prepare a report: Used the "File" tab and the "Export" option to create a report summarizing the findings from the EDA.
