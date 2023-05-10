@@ -76,4 +76,19 @@ Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-s
 :rocket: Joins: Used SQL "JOIN" statement to combine multiple tables and extract information that cannot be obtained from a single table.
 
 :rocket: Subqueries: Used SQL subqueries to extract information from a subset of records that satisfy a particular condition or set of conditions.
+#### Functions Used :
+
+
+
+### EDA Using Excel :
+:truck: Check basic information: Used the "Home" tab and the "Find & Select" and "Conditional Formatting" options to check for basic information such as the number of records, data types, and missing values.
+
+:truck: Pivot tables: Used the "Insert" tab and the "PivotTable" option to create pivot tables that summarize the data by grouping records based on one or more columns and calculating summary statistics for each group.
+
+:truck: Charts and graphs: Used the "Insert" tab and the "Charts" and "Sparklines" options to create visualizations such as histograms, line charts, and scatter plots that help to identify patterns and relationships in the data.
+
+:truck: Filtering and sorting: Used the "Data" tab and the "Filter" and "Sort" options to filter and sort records based on one or more columns.
+Prepare a report: Use the "Insert" tab and the "Text Box" option to create a report summarizing the findings from the EDA.
+
+#### Functions Used :
 
