@@ -30,3 +30,6 @@ Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-s
 ### Problem Statement :
 - The problem statement for Adidas US sales analysis for the period of 2020-2021 is to identify the key trends and factors that have influenced the company's sales performance in the US market during this period. This analysis should involve examining the company's sales data, including revenue and sales volume, as well as external factors such as economic conditions, and competitive landscape.
 -  The analysis should provide insights into the strengths and weaknesses of Adidas' US sales strategy and identify opportunities for improvement. Ultimately, the goal of the analysis is to help Adidas optimize its sales performance and increase its market share in the US.
+
+### EDA Using Python :
+:closed_umbrella:
