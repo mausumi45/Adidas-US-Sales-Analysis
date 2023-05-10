@@ -90,5 +90,14 @@ Adidas US Sales Data : https://www.kaggle.com/datasets/heemalichaudhari/adidas-s
 :truck: Filtering and sorting: Used the "Data" tab and the "Filter" and "Sort" options to filter and sort records based on one or more columns.
 Prepare a report: Use the "Insert" tab and the "Text Box" option to create a report summarizing the findings from the EDA.
 
-#### Functions Used :
+#### Pivot Charts Used :
+:tokyo_tower: line chart
+:tokyo_tower: pie chart
+:tokyo_tower: slicer
+:tokyo_tower: stacked column chart
+:tokyo_tower: Stacked area chart
+:tokyo_tower: column chart
+:tokyo_tower: bar graph
+:tokyo_tower: Doughnut Chart
+
 
