@@ -123,3 +123,15 @@ Prepare a report: Use the "Insert" tab and the "Text Box" option to create a rep
 :movie_camera: Drill-throughs: Used the "Visualizations" pane and the "Drill-through" option to create drill-throughs that allow users to view more detailed information for specific records.
 
 :movie_camera: Prepare a report: Used the "File" tab and the "Export" option to create a report summarizing the findings from the EDA.
+
+### Chart and Functions Used :
+:phone:
+:phone:
+:phone:
+:phone:
+:phone:
+:phone:
+:phone:
+:phone:
+:phone:
+:phone:
